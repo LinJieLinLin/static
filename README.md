@@ -1,2 +1,3 @@
 # static
-my static file 
+[my static file ](https://linjielinlin.github.io/static/)
+
